@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: rgb(171, 171, 202);
+    background-color: rgb(247, 247, 250);
   
 }
 .contenedor{
@@ -22,13 +22,13 @@ button{
 }
 
 #rojo{
-    background-color: red;
+    background-color: rgb(250, 142, 0);
 }
 
 #azul{
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
 }
 
 #verde{
-    background-color: green;
+    background-color: rgb(255, 251, 0);
 }
